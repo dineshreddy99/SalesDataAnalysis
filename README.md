@@ -1,6 +1,7 @@
 # SalesDataAnalysis
 This project focuses on analyzing store sales data using Excel. The dataset consists of sales records from multiple websites, including information such as product categories details, product sales, sales quantities, shipping details, and order details. The goal of this analysis is to gain insights into the sales patterns, identify trends, and make data-driven decisions to improve business performance.
-Tools Used: Excel, VLOOKUP, PIVOT TABLES, Visualization.
+# Skill Used
+Formatting in Excel, Logic statements, Conditional Formatting, Pivot tables, Xlookup and Vlookup, and Dashboard Building.
 
 # Problems Analysis is trying to solve 
 1. Compare the sales and orders using single chart.
